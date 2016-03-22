@@ -21,7 +21,7 @@ body{
 }
 #load_screen > #loading{
 	color:white;
-	width:100px;
+	width:600px;
 	height:150px;
 	margin:300px auto;
 }
