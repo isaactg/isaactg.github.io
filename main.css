@@ -1,0 +1,90 @@
+*{
+	margin:0px;
+	padding:0px;
+	list-style-type:none;
+}
+body{
+	background-image:url("book1.jpg");
+}
+.logo{
+	padding-left:100px;
+	padding-top:30px;
+	float:left;
+}
+.classname{
+	font-family
+}
+#thename{
+	position:relative;
+	color:white;
+	left:-1160px;
+	top:137px;
+}
+ul li{
+	float:left;
+	display:block;
+	text-decoration:none;
+	padding:39px;
+	padding-left:100px;
+	font-family:ravie;
+}
+a:link{
+	text-decoration:none;
+	color:#a00000;
+}
+a:visited{
+	color:#a00000;
+}
+a:hover{
+	color:#e00000;
+}
+article{
+	font-size:50px;
+	color:white;
+	text-align:center;
+	font-family:ravie;
+}
+header{
+	postion:fixed;
+}
+#startnow{
+	
+	font-size:50px;
+	margin:50px auto;
+	width:500px;
+	padding:10px;
+	background-color:white;
+	border-radius:50px;
+}
+p{
+	margin:20px;
+}
+hr{
+	width:80%;
+	margin:auto;
+	margin-top:100px;
+}
+.fbicon{
+	float:center;
+	margin-top:30px;
+	margin-left:45%;
+	margin-right:10px;
+}
+.twittericon{
+	margin-top:30px;
+}
+.footer_text{
+	font-family:ravie;
+	font-size:20px;
+	color:#a00000;
+	text-align:center;
+	padding:10px;
+	background-color:white;
+	border-radius:30px;
+}
+.co{
+	color:white;
+	text-align:center;
+	font-family:tahoma;
+	font-size:20px;
+}
