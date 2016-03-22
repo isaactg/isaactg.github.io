@@ -4,10 +4,18 @@
 <meta charset="utf-8" />
 <link rel="stylesheet" href="main.css" />
 <link rel="stylesheet" href="animate.css" />
-<link rel="shortcut icon" href="icon.ico" />
+<link rel="shortcut icon" href="logo.ico" />
 <title>Bookshelf | Online Book Store</title>
+<script>
+window.addEventListener("load",function(){
+	var load_screen= document.getElementById("load_screen");
+	document.body.removeChild(load_screen);
+}
+);
+</script>
 </head>
 <body class="animated bounceIn">
+<div id="load_screen"><div id="loading">Loading...</div></div>
 <div id="wrapper">
 <header id="wrap">
 <a href="SE_Project_v1.html"><img src="logo.jpeg" height="100" class="logo"/></a>
@@ -20,7 +28,6 @@
 <li><a href="login.html">LOGIN</a></li>
 </ul></nav>
 </header>
-<!--<a href="SE_Project_v1.html" class="classname"><div id="thename">Bookshelf</div></a> -->
 <article>
 <p><br /><br />
 BOOKSHELF<br />
