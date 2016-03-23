@@ -21,8 +21,8 @@ body{
 }
 #load_screen > #loading{
 	color:white;
-	width:400px;
-	height:150px;
+	width:500px;
+	height:350px;
 	margin:300px auto;
 }
 .logo{
