@@ -77,22 +77,24 @@ hr{
 	margin-top:100px;
 }
 .fbicon{
+	border-radius:100px;
 	float:center;
 	margin-top:30px;
 	margin-left:45%;
 	margin-right:10px;
 }
 .twittericon{
+	border-radius:100px;
 	margin-top:30px;
 }
 .footer_text{
 	font-family:ravie;
 	font-size:20px;
-	color:#a00000;
 	text-align:center;
 	padding:10px;
-	background-color:white;
 	border-radius:30px;
+	background-color:#ffa07a;
+	color:#2f4f4f;
 }
 .co{
 	color:white;
