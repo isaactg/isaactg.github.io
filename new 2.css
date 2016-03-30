@@ -1,0 +1,281 @@
+*{:
+	padding:0px;
+	margin:0px;
+	list-style-type:none;
+}
+body{
+	background-image:url("book1.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	
+}
+#wrapper{
+}
+.logo{
+	margin-left:100px;
+	margin-top:30px;
+	float:left;
+	border-radius:100px;
+}
+ul li{
+	float:left;
+	display:block;
+	text-decoration:none;
+	padding:39px;
+	padding-left:100px;
+	font-family:ravie;
+}
+
+a:link{
+	text-decoration:none;
+	color:#a00000;
+}
+a:visited{
+	color:#a00000;
+}
+a:hover{
+	color:#e00000;
+}
+.content_title{
+	float:left;
+	font-family:ravie;
+	font-size:30px;
+	color:white;
+}
+#about_content{
+	color:#2f4f4f;
+	padding:30px;
+	position:relative;
+	float:left;
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:150px;
+	margin-right:150px;
+	font-weight:bold;
+	font-family:bradley hand itc;
+	font-size:20px;
+	background-color:#FEFB9B;
+}
+.palash{
+	border-radius:100px;
+	border-radius:100px;
+}
+.arpit{
+	border-radius:100px;
+	border-radius:100px;
+}
+.isaac{
+	border-radius:100px;
+	border-radius:100px;
+}
+.shraddhesh{
+	border-radius:100px;
+	border-radius:100px;
+}
+.heads{
+	font-family:ravie;
+	font-weight:none;
+}
+#photos{
+	position:relative;
+	margin:0px 10px;
+	float:left;
+	left:800px;
+	top:50px;
+	z-index:100;
+}
+#about_we{
+	color:#2f4f4f;
+	padding:30px;
+	position:relative;
+	float:left;
+	margin-top:0px;
+	margin-bottom:50px;
+	margin-left:150px;
+	margin-right:150px;
+	font-weight:bold;
+	font-family:bradley hand itc;
+	font-size:20px;
+	background-color:#FEFB9B;
+}
+.co{
+	padding:30px;
+	color:white;
+	text-align:center;
+	font-family:tahoma;
+	font-size:20px;
+}
+#footer_co{
+	clear:both;
+	position:relative;
+	float:center;
+	display:block;
+}
+.manit{
+	border-radius:100px;
+	border-radius:50px;
+}
+#manit2{
+	position:relative;
+	float:left;
+	left:700px;
+	top:150px;
+	z-index:101;
+}
+.the_link{
+	color:black;
+}
+
+.cssload-conveyor{
+	position:relative;
+	display:block;
+	margin: 97px auto;
+	width:107px;
+}
+	
+.cssload-conveyor, .cssload-conveyor * {
+	box-sizing: border-box;
+		-o-box-sizing: border-box;
+		-ms-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+}
+
+.cssload-conveyor span {
+	display: inline-block;
+	height: 15px;
+	width: 15px;
+	background: rgb(165,42,42);
+	transform-origin: 0 50%;
+		-o-transform-origin: 0 50%;
+		-ms-transform-origin: 0 50%;
+		-webkit-transform-origin: 0 50%;
+		-moz-transform-origin: 0 50%;
+	transform-perspective: 97px;
+		-o-transform-perspective: 97px;
+		-ms-transform-perspective: 97px;
+		-webkit-transform-perspective: 97px;
+		-moz-transform-perspective: 97px;
+}
+
+.cssload-conveyor span:nth-child(1) {
+	animation: cssload-cuve 1.15s 0.58s infinite;
+		-o-animation: cssload-cuve 1.15s 0.58s infinite;
+		-ms-animation: cssload-cuve 1.15s 0.58s infinite;
+		-webkit-animation: cssload-cuve 1.15s 0.58s infinite;
+		-moz-animation: cssload-cuve 1.15s 0.58s infinite;
+}
+.cssload-conveyor span:nth-child(2) {
+	animation: cssload-cuve 1.15s 1.15s infinite;
+		-o-animation: cssload-cuve 1.15s 1.15s infinite;
+		-ms-animation: cssload-cuve 1.15s 1.15s infinite;
+		-webkit-animation: cssload-cuve 1.15s 1.15s infinite;
+		-moz-animation: cssload-cuve 1.15s 1.15s infinite;
+}
+.cssload-conveyor span:nth-child(3) {
+	animation: cssload-cuve 1.15s 1.73s infinite;
+		-o-animation: cssload-cuve 1.15s 1.73s infinite;
+		-ms-animation: cssload-cuve 1.15s 1.73s infinite;
+		-webkit-animation: cssload-cuve 1.15s 1.73s infinite;
+		-moz-animation: cssload-cuve 1.15s 1.73s infinite;
+}
+.cssload-conveyor span:nth-child(4) {
+	animation: cssload-cuve 1.15s 2.3s infinite;
+		-o-animation: cssload-cuve 1.15s 2.3s infinite;
+		-ms-animation: cssload-cuve 1.15s 2.3s infinite;
+		-webkit-animation: cssload-cuve 1.15s 2.3s infinite;
+		-moz-animation: cssload-cuve 1.15s 2.3s infinite;
+}
+.cssload-conveyor span:nth-child(5) {
+	animation: cssload-cuve 1.15s 2.88s infinite;
+		-o-animation: cssload-cuve 1.15s 2.88s infinite;
+		-ms-animation: cssload-cuve 1.15s 2.88s infinite;
+		-webkit-animation: cssload-cuve 1.15s 2.88s infinite;
+		-moz-animation: cssload-cuve 1.15s 2.88s infinite;
+}
+
+
+
+@keyframes cssload-cuve {
+	0% {
+		transform: rotateY(-90deg) perspective(49px);
+		background: rgb(128,0,0);
+	}
+	50% {
+		transform: rotateY(0deg);
+		background: rgb(160,82,45);
+	}
+	100% {
+		transform: rotateY(90deg) perspective(49px);
+		transform-origin: 100% 50%;
+		background: rgb(128,0,0);
+	}
+}
+
+@-o-keyframes cssload-cuve {
+	0% {
+		-o-transform: rotateY(-90deg) perspective(49px);
+		background: rgb(128,0,0);
+	}
+	50% {
+		-o-transform: rotateY(0deg);
+		background: rgb(160,82,45);
+	}
+	100% {
+		-o-transform: rotateY(90deg) perspective(49px);
+		-o-transform-origin: 100% 50%;
+		background: rgb(128,0,0);
+	}
+}
+
+@-ms-keyframes cssload-cuve {
+	0% {
+		-ms-transform: rotateY(-90deg) perspective(49px);
+		background: rgb(128,0,0);
+	}
+	50% {
+		-ms-transform: rotateY(0deg);
+		background: rgb(160,82,45);
+	}
+	100% {
+		-ms-transform: rotateY(90deg) perspective(49px);
+		-ms-transform-origin: 100% 50%;
+		background: rgb(128,0,0);
+	}
+}
+
+@-webkit-keyframes cssload-cuve {
+	0% {
+		-webkit-transform: rotateY(-90deg) perspective(49px);
+		background: rgb(128,0,0);
+	}
+	50% {
+		-webkit-transform: rotateY(0deg);
+		background: rgb(160,82,45);
+	}
+	100% {
+		-webkit-transform: rotateY(90deg) perspective(49px);
+		-webkit-transform-origin: 100% 50%;
+		background: rgb(128,0,0);
+	}
+}
+
+@-moz-keyframes cssload-cuve {
+	0% {
+		-moz-transform: rotateY(-90deg) perspective(49px);
+		background: rgb(128,0,0);
+	}
+	50% {
+		-moz-transform: rotateY(0deg);
+		background: rgb(160,82,45);
+	}
+	100% {
+		-moz-transform: rotateY(90deg) perspective(49px);
+		-moz-transform-origin: 100% 50%;
+		background: rgb(128,0,0);
+	}
+}
+
+#three_boxes{
+	margin-top:150px;
+}
