@@ -21,9 +21,10 @@ ul li{
 	float:left;
 	display:block;
 	text-decoration:none;
-	padding:39px;
+	padding:70px;
 	padding-left:100px;
-	font-family:ravie;
+	font-family:broadway;
+	font-size:25px;
 }
 
 a:link{
@@ -37,20 +38,26 @@ a:hover{
 	color:#e00000;
 }
 .content_title{
+	position:absolute;
 	float:left;
-	font-family:ravie;
+	font-family:broadway;
 	font-size:30px;
 	color:white;
+	top:120px;
+	left:160px;
 }
 .best{
+	position:absolute;
 	float:left;
-	font-family:ravie;
+	font-family:broadway;
 	color:white;
+	top:120px;
+	left:320px;
 }
 #bestseller{
 	float:left;
 	position:relative;
-	font-family:ravie;
+	font-family:broadway;
 	color:#2f4f4f;
 	font-size:20px;
 	top:100px;
