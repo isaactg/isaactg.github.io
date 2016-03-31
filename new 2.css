@@ -21,9 +21,10 @@ ul li{
 	float:left;
 	display:block;
 	text-decoration:none;
-	padding:39px;
+	padding:70px;
 	padding-left:100px;
-	font-family:ravie;
+	font-family:broadway;
+	font-size:25px;
 }
 
 a:link{
@@ -37,17 +38,21 @@ a:hover{
 	color:#e00000;
 }
 .content_title{
+	position:absolute;
 	float:left;
-	font-family:ravie;
+	display:block;
+	font-family:broadway;
 	font-size:30px;
 	color:white;
+	top:120px;
+	left:160px;
 }
 #about_content{
 	color:#2f4f4f;
 	padding:30px;
 	position:relative;
 	float:left;
-	margin-top:0px;
+	margin-top:100px;
 	margin-bottom:50px;
 	margin-left:150px;
 	margin-right:150px;
@@ -73,7 +78,7 @@ a:hover{
 	border-radius:100px;
 }
 .heads{
-	font-family:ravie;
+	font-family:broadway;
 	font-weight:none;
 }
 #photos{
